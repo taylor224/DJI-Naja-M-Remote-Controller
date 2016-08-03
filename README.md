@@ -1,6 +1,7 @@
 <h1>DreamLiner</h1>
 
 Arduino Code to Remote Control DJI Drone (Naja-M Flight Controller)
+Tested with DJI F450
 
 <a>아두이노를 사용해 컨트롤 하는 소스</a>
 
